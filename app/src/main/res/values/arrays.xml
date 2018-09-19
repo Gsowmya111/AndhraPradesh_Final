@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="places_of_symbols">
+        <item>Kuchipudi</item>
+        <item>Black Buck</item>
+        <item>Indian Roller</item>
+        <item>water Lily</item>
+        <item>Mango</item>
+        <item>Neem</item>
+        <item>river</item>
+        <item>sport</item>
+    </string-array>
+    <string-array name="places_anantapur_collapsingbar_title">
+        <item>Gooty Fort</item>
+        <item>Penukonda fort</item>
+        <item>Thimmamma Marrimanu</item>
+        <item>Narasihma Swamy Temple</item>
+        <item>Lepakshi Veerabhadra Swamy Temple</item>
+    </string-array>
+    <string-array name="places_chittor_collapsingbar_title">
+        <item>Horsley Hills</item>
+        <item>koundinya wildlife sanctuary</item>
+        <item>Gurramkonda Fort</item>
+        <item>Nagari Hills</item>
+        <item>Tirumala Tirupathi Temple</item>
+        <item>Srikalahasti</item>
+        <item>Kanipakam</item>
+    </string-array>
+    <string-array name="places_east_godavari_collapsingbar_title">
+        <item>Annavaram</item>
+        <item>Antarvedi</item>
+        <item>Coringa wild life Sanctuary</item>
+        <item>Kakinada SeaPort</item>
+        <item>Papikonda</item>
+
+    </string-array>
+    <string-array name="places_guntur_collapsingbar_title">
+        <item>Buddist Stupa</item>
+        <item>Kottapa Konda</item>
+        <item>Amareswara Temple</item>
+        <item>Panakala Swamy Mangalagiri</item>
+        <item>Kondaveedu Fort</item>
+
+    </string-array>
+
+    <string-array name="places_cudapah_collapsingbar_title">
+        <item>Venkateswara Wild life</item>
+        <item>Gandikota Fort</item>
+        <item>Pushpagiri</item>
+        <item>Vontimitti</item>
+
+    </string-array>
+
+    <string-array name="places_krishna_collapsingbar_title">
+        <item>Bhavani Island</item>
+        <item>Kanaka Durga Temple</item>
+        <item>Kondapalli Killa</item>
+        <item>Prakasam Barrage</item>
+        <item>Undavalli Caves </item>
+    </string-array>
+
+    <string-array name="places_prakasam_collapsingbar_title">
+        <item>Bhairava Kona</item>
+        <item>Kottapatnam Beach</item>
+
+    </string-array>
+
+    <string-array name="places_nellore_collapsingbar_title">
+        <item>Pulicat Lake</item>
+        <item>Pulicat Lake Bird Sanctuary</item>
+        <item>Mypadu Beach</item>
+        <item>Nelapattu Bird Sanctuary</item>
+    </string-array>
+    <string-array name="places_srikakulam_collapsingbar_title">
+        <item>Suryanarayana Temple</item>
+        <item>Kalingapatnam Beach</item>
+
+    </string-array>
+    <string-array name="places_vizag_collapsingbar_title">
+        <item>Borracaves</item>
+        <item>Araku</item>
+        <item>Kailasagiri</item>
+        <item>katikifalls</item>
+        <item>Ramakrishnabeach</item>
+        <item>Submarine_musem</item>
+        <item>Zoo</item>
+    </string-array>
+
+    <string-array name="places_vizinagarm_collapsingbar_title">
+        <item>Bobilli Fort</item>
+        <item>Vizianagaram  Fort</item>
+        <item>MotiMahal</item>
+
+    </string-array>
+
+    <string-array name="places_westgodavari_collapsingbar_title">
+        <item>Dwaraka Tirumala</item>
+        <item>Koleru Lake</item>
+        <item>Pattiseema </item>
+           </string-array>
+        <string-array name="places_kurnool_collapsingbar_title">
+        <item>Bellum Caves</item>
+        <item>Mahanandi</item>
+        <item>Ahobilum </item>
+        <item>Srisailam </item>
+        <item>Matralayam </item>
+        <item>Yaganti </item>
+            <item>Srisilamdam</item>
+
+
+    </string-array>
+
+    ---------------------------
+    <string-array name="place_desc_Anatapur">
+        <item>Gooty Fort </item>
+        <item>Penukonda fort</item>
+        <item>Thimmamma Marrimanu</item>
+        <item>Veerabhadra Temple</item>
+        <item>Narasihma Swamy Temple</item>
+    </string-array>
+
+    <string-array name="place_desc_chittore">
+        <item>Horsley Hills </item>
+        <item>koundinya wildlife sanctuary</item>
+        <item>GurramKonda</item>
+        <item>Nagari Hills</item>
+        <item>Tirumala Temple</item>
+        <item>Srikalahasthi</item>
+        <item>Kanipakam</item>
+    </string-array>
+    <string-array name="place_desc_esat">
+        <item>Satyanarayana Swamy Temple</item>
+        <item>Antarvedi</item>
+        <item>Coringa Wild Life Sanctuary</item>
+        <item>Kakinada SeaPort</item>
+        <item>Papikondalu</item>
+    </string-array>
+
+    <string-array name="place_desc_guntur">
+        <item>Buddist Stupa</item>
+        <item>Kottapa Konda</item>
+        <item>Amareswara Temple</item>
+        <item>Panakala Swamy Mangalagiri</item>
+        <item>Kondaveedu Fort</item>
+    </string-array>
+    <string-array name="place_desc_cuddapah">
+        <item>Venkateswara Wild life</item>
+        <item>Gandikota Fort</item>
+        <item>Pushpagiri</item>
+        <item>Vontimitti</item>
+    </string-array>
+    <string-array name="place_desc_krishna">
+        <item>Bhavani Island</item>
+        <item>Kanaka Durga Temple</item>
+        <item>Kondapalli Killa</item>
+        <item>Prakasam Barrage</item>
+        <item>Undavalli Caves </item>
+    </string-array>
+    <string-array name="place_desc_prakasam">
+        <item>Bhairava Kona</item>
+        <item>Kottapatnam Beach</item>
+
+    </string-array>
+    <string-array name="place_desc_kurnol">
+        <item>Bellum Caves</item>
+        <item>Mahanandi</item>
+        <item>Ahobilum </item>
+        <item>Srisailam </item>
+        <item>Matralayam </item>
+        <item>Yaganti </item>
+        <item>Srisilamdam</item>
+
+    </string-array>
+
+    <string-array name="place_desc_nellore">
+        <item>pullicat Lake</item>
+        <item>pullicat Bird Sanctuary</item>
+        <item>Myapadu beach</item>
+        <item>Nelapattu Bird Sanctuary</item>
+    </string-array>
+
+    <string-array name="place_desc_srikakulam">
+        <item>Suryanarayana Temple</item>
+        <item>Kalingapatnam Beach</item>
+    </string-array>
+    <string-array name="place_desc_vishaka">
+        <item>Borracaves</item>
+        <item>Araku</item>
+        <item>Kailasagiri</item>
+        <item>katikifalls</item>
+        <item>Ramakrishnabeach</item>
+        <item>Submarine_musem</item>
+        <item>Zoo</item>
+    </string-array>
+    <string-array name="place_desc_vijaya">
+        <item>Bobilli Fort</item>
+        <item>Vizianagaram  Fort</item>
+        <item>MotiMahal</item>
+
+    </string-array>
+    <string-array name="place_desc_west">
+        <item>Dwaraka Tirumala</item>
+        <item>Koleru Lake</item>
+        <item>Pattiseema </item>
+          </string-array>
+    <string-array name="symbols_desc_names">
+        <item>Kuchipudi </item>
+        <item>Black Buck</item>
+        <item>Blue Lilly</item>
+        <item>Indian roller</item>
+        <item>Mango</item>
+        <item>Neem Tree</item>
+        <item>Kabaddi</item>
+
+    </string-array>
+
+    --------------------------------
+
+    <string-array name="place_details_Anatpur">
+        <item>Gooty Fort or Gutti Fort is a hill fort located at Gooty in Anantapur district of Andhra Pradesh.It belonging to the 7th century is a stunning example of the architectural excellence of the past.
+           Gooty Fort is 300 meters high and looks like a shell from outside! .Popularily Known as the  ‘King of Forts’.
+            Built by Vijayanagar kings, the fort was conquered by Haider Ali and was eventually won over by British when Tipu Sultan was defeated.
+            A pavilion in the fort offers panoramic view of the land beneath.Previously this place was known as Gowthampuri and later renamed as Gooty.It can be a nice place to spend sometime with friends and family. </item>
+
+        <item>Penukonda is a town in the Anantapur district of Andhra Pradesh, India.
+            It is 70 km away from Anantapur town. This town is different from similar-sounding Penugonda.
+            Today, the place is famous for its Sri Kaleswar Swamy Ashram that draws people from world over. It is a place of historical importance.
+            The Penner River flows along its western and Chitravati river along its eastern boundary. Penukonda is mentioned as Ghangari in the local Kannada inscriptions.
+            The construction of the Penukonda Fort shows the grand plan and strategic view of the medieval period. Tourist visit here to see a good number of temples in the Fort. There are seven bastions along the circumference of the fort. At the Yerramanchi gate which is the main entrance of the fort you can see a colossal image of Lord Hanuman, which lengthens to the height of 11 feet.This is one of the major tourist attractions of Andhra Pradesh
+        </item>
+
+        <item>Thimmamma Marrimanu is a banyan tree in Anantapur, located about 25 kilometers from Kadiri, Andhra Pradesh, India.
+              In the Telugu language, "marri" denotes "banyan" and "manu" denotes "trees". it was recorded as the largest tree specimen in the world in the Guinness Book of World Records .
+             Many people visit the place to worship and to let their souls relax in the peaceful ambience. The route is quite exciting while getting here as it goes through fields and little villages and it makes the visitors journey enjoyable.
+             The Indian mythology represents this tree as a Trimurthya which is a confluence of Lord Vishnu as the bark, Lord Brahma as the roots and Lord Shiva as the branches . It is said that the three gods are risiding in that tree.The belief that childless couple will be blessed with children on visiting this place makes it a top tourist attraction.
+        </item>
+        <item>The Temple of Sri Lakshmi Narasimha Swamy is one among the many renowned shrines in the Rayala Seema are ranking the importance with the great shrine of Sri Venkateswara Swamy, at Tirupati. The local hill called stotradri is the place where the devas worshipped the Lord after He destroyed the demon Hinranyakasipu in the Durgam in Godduvelagala vge which is situated nearby to this town Kadiri.
+            The temple is enclosed in large walled compound with 4 entrances having a gopura over each entrance. On the eastern entrance one can see the idol of Anjaneya. Garbgriha is decorated beautifully with four lions in corner. There is an idol of Prahalada standing beside the lord. Sri Mahalakshmi, the Lords consort is known here by the name of Sri Amruthavalli. The procession image of the deity is in the form of Vishnu made of metal with Bhudevi and Sridevi on either side. The temple is facing east; with a large pushkarini (temple tank) in the north east corner of the temple.
+Inside the temple, every wall is covered with beautiful and delicate carvings of gods and puranic scenes. Annual chariot festival or Rathothsavam is conducted every year in this temple in grand manner.
+
+        </item>
+        <item>The Veerabhadra temple is in Lepakshi in the Anantapur district of the Indian state of Andhra Pradesh.The temple has been built on the southern side of Lepakshi town.
+            The ceilings are decorated by mural paintings. A huge granite Nandi bull, carved out of a single stone is also present near the temple.The Lepakshi temple can be divided into three sections – the ‘Mukha Mandapa’, (or the ‘Nitya Mandapa’ or ‘Ranga Mandapa’), the ‘Artha Mandapa’ and ‘Garbha Griha’, and the ‘Kalyana Mandapa’  The sculptures and the mural paintings seen in the Natya and Kalyana Mandapams are exceptional for their artistic beauty and skill. Most of these sculptures portray the mythological puranic episodes like ‘Ananthasayana’, ‘Dattatreya’, ‘Chaturmukha Bramha’, ‘Tumburu’, ‘Narada’ and ‘Rambha’. The Lepakshi temple has been built in honor of Lord Veerabhadra. According to legend, the Kalyana Mandapa of the temple had witnessed the marriage of Lord Shiva and Parvati. The ‘Natya’ (Dancing) and ‘Ardha’ (worship) Mandapas are the best parts of the temple in terms of architecture.
+            The ‘Natya’ Mandapa has been adorned with sculptured pillars depicting life-size musicians and dancers.It is very good tourist spot.
+        </item>
+
+    </string-array>
+
+
+    <string-array name="place_details_chittor">
+<item> Horsley Hills is a famous Hill Station in Chittoor district of Andhra Pradesh and also one of the best Tourist places in Andhra Pradesh.
+          It is a series of hills in Madanapalle taluk and is about 9 miles from Madanapalle town.
+            The local name of the hill was Yenugu Mallama Konda.The major tourist places around Horsley hills are Lake Gangotri, View points, Gali Banda, Environmental Park and the Horsley Hills Museum. Horsley Hills is also one of the few places to offer Zorbing in India. But it requires prior reservation a day before and is normally offered on a group package of minimum 20 participants. Other adventure sports conducted are rappelling and trekking. The weather of Horsley Hills is pleasant throughout the year and it can be visited anytime of the year. This place is also called "Andhra ooty".
+        </item>
+
+        <item>
+            Kaundinya Wildlife Sanctuary is a wildlife sanctuary and an elephant reserve situated in Andhra Pradesh.It is the only sanctuary in Andhra Pradesh with a population of Asian elephants.
+           The activities in the park are centered around the prestigious elephant population and includes Elephant and Jeep Safaris. The habitat of Kaundinya sanctuary is rugged with high hills and deep valleys.Tourists can also spot mandrill, olive baboon and many other animals in the sanctuary. Carnivores such as puma, jaguar, Himalayan black-bear, hyena and hippopotamus, along with all the three Indian crocodile species live here..The climate at this Sanctuary is pleasant year-round to travel.
+        </item>
+
+        <item>Gurramkonda Fort is one of the oldest fort in the district.The average elevation of this historical place is 2,125 ft.It is a well-known heritage site of India.
+            Located at a distance of 72 kms from Tirupati, the fort is architecturally beautiful and promises to leave all spellbound. It was originally a mud and rock construction which came under the rule of Vijayanagara kingdom. It is a beautiful architectural structure existing in the town and is about 500 years old. This town once had forty mosques, which are all destroyed and extinct now.
+        </item>
+        <item>
+            Nagari town is situated on the northern bank of the river Kusasthali in Chittoor district.There is a hill range to the north of Nagari known as the Nagari Hills, a famous picnic spot in Andhra Pradesh. The prominent and highest cliff of the hills is referred to as the "Nagari Nose" as it projects towards one side in the form of a human nose. It can be seen for about 100-km, around and from Chennai lighthouse.
+              Nagari Nose served as a lighthouse during the medieval period for guiding navigation in the Bay of Bengal, since the nose was serving as a landmark for the ships touching Chennai lighthouse.   Nagari Nose served as a lighthouse during the medieval period for guiding navigation in the Bay of Bengal, since the nose was serving as a landmark for the ships touching Chennai. A bonfire is made on the tip of the nose, which used to guide the ships in those days. The then rajas of Karvetinagaram bestowed a grant of 0.75 acre of wetland on a Jangam family in Kemparapalem village, which lies at the foot of the hill for services rendered.
+              Kailasakona Waterfalls is a major attraction here.
+        </item>
+        <item>Tirupati is an ancient holy city located in the south-eastern part of Andhra Pradesh.It is known as the abode of God Venkateswara.
+            Tirupati is known for Tirumala Venkateswara Temple, which is one of the most important pilgrim sites in India and draws millions of devotees every year. The temple is located at the Tirumala Hills, which are one of the oldest rock mountains.
+            There are seven hills around Tirumala, which are also known as Sapthagiri. These hills were named after the seven hoods of Sheshnag, the cosmic serpent. This temple is located on peak of the seventh temple, Venkatadri.
+            Brahmotsavam is a grand festival celebrated during the month of September in Tirumala.
+        </item>
+
+        <item>
+        Srikalahasti temple is a very famous Shiva temple located in the state of Andhra Pradesh in India. It is one of the most well known temples of South India and is known for being the place where Kannappa happily sacrificed both of his eyes to stop the blood flowing out of the Shiva Lingam and he continued doing the same so long till the time, he was not stopped by Lord Shiva. After the incidence Lord Shiva being happy with his devotion gave him salvation.
+        The temple is also considered as Dakshina Kasi and Rahu-katu-Kshetra.Lord Shiva in his aspect as Vayu is worshiped as Kalahasteeswara.
+        </item>
+
+        <item>
+          Sri Varasiddhi Vinayaka Swamy Temple is renowned for its self manifested Lord Vinayaka idol. Dedicated to Lord Vinayaka, this temple is one of the most popular Lord Ganesha temples in the country.
+         It is also called with the name of Swayambhu sri varasiddhi Vinayaka Swamy Temple.It is also believed that the Lord Vinayaka idol at Kanipakam has been growing in size on a daily basis. At present devotees can see up to the abdomen and knees of the Lord Vinayaka. Hence, It is seen that the Lord’s idol has outgrown the armour or kavacham which was offered about 50 years ago by Smt. Lakshmamma.
+        It  is significant for its purity and rich heritage.
+        </item>
+
+
+    </string-array>
+
+
+    <string-array name="place_details_East">
+    <item>
+      Annavaram is one of the most famous Holy Shrines in India and enjoying second place after Tirupati in Andhra Pradesh. The temple is built in the Dravidian style. Sri Satyanarayana Swamy at Annavaram is  followed by sacred Pampa River touching the feet of the hill. Lord Satyadeva the god of truth is showering his eternal blessings on mankind in his beautiful manifested form of the DIVINE TRINITY namely Hari Hara Hiranya Garbha Thrimurtyatmaka.
+    Hence this is the temple that is attracting the Pilgrims of both Vishanava and Saiva devotees and thousands of pilgrims from all over the Country are worshiping Lord Satyadeva every day forgetting all sectional differences.
+     It is believed that the place was known for constant food distribution (free feeding) by the benevolent people of the locality and that therefore the place was called by the name Annavaram(annam means food in Telugu).
+    The idol is about 13 feet high in a cylindrical form, the base being in the lower sanctum representing Lord Brahma and the top is in the upper sanctum representing Lord Vishnu. The middle portion represents Lord Siva. There are some temples representing the unity of Lords Hari and Hara in some places and this is the place where even Brahma who is generally denied temple worship, is clubbed with the other two, and the creator (Brahma), the protector (Vishnu) and destroyer (Siva) are worshipped simultaneously. The image of the lord forming a single idol representing the Trimurthis-Brahma, Vishnu and Siva is of unique attraction.
+       </item>
+          <item>
+            Lakshmi Narasimha Temple located in the coastal town of Antarvedi in East Godavari District of Andhra Pradesh.It is one of the most important temple in the entire region and has people thronging to it despite its remote location especially on pilgrimages.
+              As the name suggests the temple is dedicated to Lord Sri Lakshmi Narasimha Swamy, one of Lord Vishnu  incarnation. It was originally built Vedic Yagnas and hence it got its name  Antarvedi. It is located close to river Vashishta which is tributary of Godavari river. Close to the temple is the confluence of the river with Bay of Bengal and the sangam is also an important point to visit especially for religious travelers.
+            Architecturally it is a stunning temple and I actually visited it twice to get these shots. The first visit was after sunset and without a tripod but I could see enough to make a plan to come back again. You can also climb to roof of the temple
+
+          </item>
+        <item>
+    The Coringa Wild Life Sanctuary, named after a tiny village called Coringa, is situated in the East Godavari district of Andhra Pradesh. The region covers an area of 235 square kilometers. It was declared a sanctuary in the year 1978 as it was the home of different and rare species of Mangroves and rare species of birds and animals. Situated at a distance of 20 kilometers from Kakinada and 70 kilometers from Rajahmundry, the Coringa Wild Life Sanctuary is formed in the delta and estuary region of the River Godavari. The government declared the region a sanctuary to conserve the natural mangrove vegetation that grows in the region. Mangroves are salt tolerant forest ecosystems of tropical and sub – tropical intertidal regions of the world.
+    The sanctuary also has a heavy growth of shrubs and herbs.It  is renowned for its Salt Water Crocodiles.Pedal boats and 20-seater boats are available here for those who wish to go boating. The boating provides an opportunity to have a very close glimpse of the mangrove for about 40 minutes.It is one of the best tourist spot in east godavari
+</item>
+        <item>
+            Kakinada Port is located at Kakinada off the east coast of India. It is 170 km (106 mi) south of Visakhapatnam Port.
+            Kakinada Port is a large complex comprising Kakinada Anchorage Port, Kakinada Deep Water Port, Kakinada Fishing Harbour and Ship-Breaking Unit. Kakinada Anchorage Port has a century-long tradition.
+            Kakinada Deep Water Port is an all-weather deep water port, and the channel has a depth of 12 metres (39 ft). The port can handle vessels up to 50,000 DWT. The port handled 10.81 million tonnes of cargo in 2010–2011.Recently AP Govt has developed Kakinada beach and it has 100 acres of land covered from port to uppada area
+        </item>
+        <item>
+            Papi kondalu or the Papi Hills are series of mountain range that are located in Rajahmundry in West Godavari District of Andhra Pradesh. Papikondalu Mountain range runs along River Godavari one of the largest and vivacious rivers in India. The mighty river narrowing and passing with twists and turns along the Papi Hills is every visitors delight.
+            Its beauty is often compared to that of Kashmir as the area around the ranges is quaint and bountiful with nature. The ranges also boast of waterfalls at Munivaatnam.
+
+        </item>
+
+
+    </string-array>
+
+    <string-array name="place_details_guntur">
+
+        <item>
+            The great stupa or Mahachaitya at Amaravati was one of the biggest in Andhra Pradesh with a probable diameter of 50 meters and a height of 27 meters. It has a brick built circular vedika or drum with projecting rectangular Ayaka platforms in four cardinal directions measuring 7.20 X 2.10 meters each. Five Ayaka pillars must have stood on each platform symbolically representing the five main events in Buddha’s life viz., the birth, the great renunciation, the enlightenment, the first sermon and the final extinction. The drum and Ayaka platforms were covered with sculptured slabs. All the four-ayaka platforms have yielded seven crystal and one Ivory relic caskets, some of which contain bone-pieces, pearls, precious stones and gold flowers. This is a Sariraka type of stupa and hence it’s great importance.
+            The rich sculptural carvings of this sariraka stupa are a class of its own popularly known as Amaravati school of art
+        </item>
+        <item>
+            Kotappakonda Temple is located at a hillock in Kotappakonda village, Guntur district of Andhra Pradesh, which is dedicated to Lord Shiva. Kotappakonda Temple is also called as Trikoteswara Swamy temple and Trikuteswara Swamy temple. The holy hill appears with three peaks when watched from any direction. And the three peaks are described as Lord Brahma, the god of creation, Lord Vishnu, the preserver god and Lord Rudra, the god of storms. And hence called as Trikutadri.
+                Kotappakonda temple is considered to be the very famous temple and to reach the temple one has to climb stairway of about thousand steps. There are four temples located in the temple complex of Kotappakonda temple. One of the temple is located at the base, the other at an elevation of about 600 feet and the main temple stands at a height of 1500 feet. The special feature about the temple is that we cannot find a single crow around the temple surroundings.
+        </item>
+        <item>
+            Amaravati is also known as Punyakshetra. When Subramanya killed the demon Tarakasura, the Shivalingam in his throat broke and fell in five different spots, which became the Pancharama kshetras. The foremost of these is Amareswara at Amaravati where Indra and the Devas are believed to have worshipped Shiva. Amareswaram is considered sacred because of three things, the Krishna River, an important Kshetra with a Sthalamahatyam and the Sri Mahalinga Murthy, which are three sacred principles embodied in one.
+            Amaravati is situated twenty miles northwest of Guntur and is connected with it by a high-quality motorable road. At Amaravati, there is a Public Works Department Travelers Bungalow, some choultries and sheds for pilgrims stay
+       The major festivals celebrated in the Amareswara temple are the Maha Shivaratri, falling on the Magha Bahula Dasami, the Navaratri and the Kalyana Utsavas.
+        </item>
+        <item>
+            Mangalagiri means The Auspicious Hill. This place is one of the 8 important Mahakshetrams (sacred places) in India. There are three Narasimha Swamy temples in Mangalagiri. One is Panakala Narasimha Swamy on the hill. Another one is Lakshmi Narasimha Swamy at the foot of the temple. Third one is Gandala Narasimha Swamy at the top of the hill.
+            This shape of the hill looks like an elephant. From all the directions, the hill appears in the elephant shape only. Panakala Lakshmi Narasimhaswamy there is only the face with the mouth widely opened.
+            It is said that here, god is self-existent. In the temple, there will be no statue of the god, but there is only mouth, widely opened to 15 cms. The mouth is covered by metal face of the god.
+            The God takes jaggery water as offering by a conch. The Jaggery water is actually poured into the mouth of the Lord, a gargling sound is clearly audible as if the Lord is actually drinking it and the sound becomes shriller and shriller as and when the Lord is drinking. The sound will come to a stop after sometime and the balance of the jaggery water is thrown out. This phenomenon happens not once in a day but is a recurring feature during the course of the day as and when devotees offer panakam (jaggery water). It will be interesting to note that even a single ant is not traceable near the Lord nor around the temple in spite of the offering of so much jaggery water.
+            As the offering of the panakam to the Lord is peculiar, the Lord here is called panakala Narasimhaswamy.
+        </item>
+        <item>
+            Kondaveedu Fort is to be found at a distance of 25 km from Guntur. Kondaveedu fort was built by Anapotha Reddy in the 1250 A.D and later developed by Ana Venkata Reddy.
+            Located on a hilltop, this historical fort offers around 21 stupas. There are also many temples, residential structures, pillared halls and the entrance gate ways worth seeing here. The panoramic view from the summit is awe inspiring and is ideal for trekking.
+            Pillared halls, and the gate ways on east and west sides of the fort are the main attractions. Kondaveedu with its natural beauty is an ideal place for trekking. Recent archaeological excavations unearthed a 14th century inscription penned by Kavi Sarvabhauma Srinadha and in idol of Raja Rajeswari. A place of natural scenic beauty with natural wonders it is an ideal place for trekking.
+        </item>
+
+        </string-array>
+    <string-array name="place_details_cudapah">
+        <item> Sri Venkateswara Wildlife Sanctuary covers an area of 353 Sq. kms, over Kadapa and Chittoor districts of Andhra Pradesh. Established in 1989, the park is a heaven for nature lovers with unfathomable valleys and striking waterfalls, surrounded by Seshachalam and Tirumala Hills. The waterfalls is also a great place for trekking and it is a nice place to visit from Chennai as a weekend getaway.
+            One of the famous wildlife sanctuary to visit in Kadapa district is shri Venkateshwara sanctuary. This is one of finest tourists destination to visit in this region. The lush greenery all-around of this sanctuary attracts thousands of tourists each year from different part of Andhra as well as India. This wildlife sanctuary was established in 1989. The dense forest in and all-around of this sanctuary make this sanctuary one of the finest place to spent some time close to nature. This place is the paradise for nature lover people. You can various species of plants and trees in the vicinity of wildlife sanctuary. The major wildlife attraction of this sanctuary are  hyena, sambhar, sloth bear, spotted deer, black buck and many more. This sanctuary is also surrounded with various colorful flowers which adds beauty to this wildlife sanctuary. You can find lot of people making fun and enjoyments in the vicinity of this wildlife sanctuary. This is also the prefect picnic spot of this region. When you are in Kadapa district then you should visit this sanctuary.
+        </item>
+        <item>
+             Gandikota is situated on the Pennar River in Andhra Pradesh and is known as the Grand Canyon of India.The Gandikota fort was constructed by the Kappa king during 13th century.
+                Situated on the banks of river Pennar, Gandikota derives its name from two Telugu words Gandi meaning gorge and, kota meaning fort.  Also known as George fort,  it is guarded by a huge entrance gate that’s 20 feet high and 101 bastions each over 40 feet high. The fort is surrounded by the deep gorge, impenetrable hills and dense forest. The landscape also includes monolithic boulders of red granite. All these provide a natural line of defence to the residents of the fort.
+                The area is full of rocky plains and dry plateau landforms with the Penner river flowing in the background. At present, Gandikota Fort lies in ruins and it is now only a tourist attraction.
+        </item>
+        <item>
+           The Pushpagiri Temple Complex is situated in the Cuddapah district of Andhra Pradesh, India. It is located on the banks of the Pinakini River that meanders through the District which has origins on Nandi Hills in Karnataka and is located at a distance of about 16 kilometres from the district headquarters.
+            The architectural styles of the Pushpagiri temple complex range from the age of Ikshvakus to the modern chieftains that subordinated to the kings of Vijayanagara empire. It is well known for its numerous temples. Pushpagiri is now called as a second Hampi, is one of the important Advaitha Mutts established by Sankaracharya and is the only place in Andhra Pradesh where the holy Peetham of Sankaracharya is located.
+            It is one of the most visiting place for those who are going by vehicles towords Tirumala. It is nearer to Kadapa Town.
+        </item>
+        <item>
+            Kodanda Rama Swamy temple is located at Vontimitta, Kadapa district of Andhra Pradesh and also dedicated to Lord Rama (Lord Vishnu). Kodanda Rama Swamy temple is listed to be one of the largest temples of Andhra Pradesh. The temple depicts artistic skill of the Vijayanagara architectural style, which was said to be in existence from 16th century. The temple is believed to be built by Vontudu and Mittudu. Vontudu and Mittudu was earlierly said to be robbers and was later became the great devotees of Lord Rama.
+            The presiding deity of this temple is Lord Rama, who is worshiped by the name Lord Kodanda Rama Swamy. Lord Rama is found with a bow in His right hand and arrow in His left hand in a standing posture along with Goddess Sita and Lalshmana. Goddess Sita and Lakshmana are found to be carved as a composing images, which is made out of a single rock. The other deities of the temple are Lord Vishnu, Lord Krishna, Lakshmana, Goddess Sita, Lord Hanuman, and Lord Ganesha etc.
+            The temple has three Gopurams, monumental tower, facing east, north and south. The east facing tower is the central tower which is a five tiered structured building. The mandapam of the temple contains 32 pillars and hence it is called as Madhyarangaradapam.
+        </item>
+
+    </string-array>
+
+
+    <string-array name="place_details_kurnol">
+        <item>
+            Belum Caves are the largest and longest cave system in India still open for the tourists. The second largest caves in India after the Krem Liat Prah in Meghalaya and famous for their unique formations such as stalactite and stalagmite formations, the caves were formed over a period of millions of years with the consequent formation of limestone. One of the centrally protected monuments of national importance, the Belum Caves has numerous pathways with intricate patterns of water stream on limestone which are bound to leave you awestruck over the sheer will of nature and the beauty it can create.
+            Due to the continuous deposition of limestone under the surface of the earth, these caves were formed over the period of millions of years.  Inside the caves is the maze of 16 paths and an entrance chamber.
+            One of the most striking features of the cave is the stunning rock formations called Saptasvarala Guha (the chamber of seven notes). Here, you can hear the musical sound when struck with the wood, bamboos or knuckles. Simhadwaram, which means doorway for gods is a breathtaking archway giving an illusion of a lions head. The Kotilingalu Chamber contains thousands of naturally made lingams. The lingams are formed of stalactites.It is best tourist place in kurnool.
+        </item>
+        <item>
+            Mahanandi is at a distance of around 19 km from the Nandyal town in Kurnool district. The primary deity of this temple is Lord Shiva. The temple is famous for its stunning architecture and for many rituals that are held during the auspicious day of Maha Shivaratri.
+             About 15 kilometres from the village are nine shrines to Nandi. Mahanandi is one of the nine shrines. The other eight are Shivanandi, Vinayakanandi, Somanandi, Prathamanandi, Garudanandi, Suryanandi, Krishnanandi (also known as Vishnunandi) and Naganandi.The Mahanandiswara Swamy Temple is about 1,500 years old and is dedicated to Lord Shiva. The shivalinga in the temple is considered to be unique because it is formed by a rough, uncut rock containing two cavities. Devotees are allowed to touch the shivalinga. There is a huge Nandi located in front of the main shrine. The tower above the shivalinga is what makes this temple unique. It is constructed in the North Indian style of architecture.
+            Mahanandi Temple is specially known for its attractive pond or called Kalyani (temple tank), which contains a sacred fresh water. There temple is surrounded by three temple tanks, where two temple tanks are located at the entrance of the temple and one located inside the temple. And the temple tank is maintained in such a way that the depth of the water do not exceeds the level of five feet. The excellent architecture of the temple depicts artistic skill of the Vishwakarma Brahmins, who believe that they are descendants of Vishwakarma, a Hindu deity.
+            The incredible feature of the temple is that the holy water in the temple tank of this temple will be very hot during the winter season and very cold during the summer.
+        </item>
+        <item>
+            Ahobilam Narasimha Temple is the main temple and earliest among all the nine temples. Ahobilam Narasimha Temple is situated on the Upper Ahobilam at a distance of 8km from Lower Ahobilam. The mythology says that Lord Vishnu appeared to the Devas as half-lion and half-man, one of the incarnation of Lord Vishnu. By seeing Narasimha avatar of Lord Vishnu, the Devas is said to be shouted saying Ahobala (great strength) and Ahobila (the cave where the current sanctum is located). And hence, this place is called as Ahobalam or Ahobilam.
+            And it is said that Ahobila is the place where Lord Narayana killed the demon Hiranyakashipa, appearing from the stone pillar.Nine temples are dedicated to Lord Narasimha (one of the ten incarnations of Lord Vishnu) which is called as Nava Narasimha temples and also situated at Ahobilam in the Allagadda municipality of Karnool district in Andhra Pradesh. The Nava Narasimha Temples are:
+            Ahobilam Narasimha Temple,Varaha Narasimha Temple,Jwala Narasimha Temple,Malola Narasimha Temple,Karanja Narasimha Temple,Yoganandha Narasimha Temple,Chatravata Narasimha Temple,Paavana Narasimha Temple,Bhargava Narasimha Temple.
+        </item>
+        <item>
+            Srisailam is famous for Srisailam Dam and Bhramaramba Mallikarjuna Temple which is dedicated to Lord Shiva. The sanctum enshrines Lord Mallikarjuna in the form of a linga protected by a three-hooded cobra. This ancient temple built in the Dravidian style with lofty towers and sprawling courtyards is one of the finest specimens of Vijayanagara architecture. Though the exact origins of the temple are not available, the Satavahanas of the 2nd century AD have referred to it. The Kakatiyas and the Vijayanagara kings have made several endowments here.
+            Srisailam is a perfect combination of temples and scenic spots. Srisailam Dam built over River Krishna is one of the largest dams in South India. Mallikarjuna Swamy Temple, Bhramaramba Devi Temple, Akka Mahadevi Caves, Pathala Ganga, Shikaresvara Temple, Sakshi Ganapathi Temple and Mallela Theertham are the other attractions here.
+            At a distance of 160 km from Nandyal, 181 km from Kurnool, 229 km from Hyderabad, 263 km from Vijayawada and 527 km from Bangalore, Srisailam is one of the twelve Jyotirlingas of Lord Shiva situated on the banks of River Krishna in Kurnool district of Andhra Pradesh. It is one of the most important pilgrimage centers of Lord Shiva in India and also one of the top Places to visit in Andhra. Srisailam is also one of the most popular weekend getaways from Hyderabad.
+        </item>
+        <item>
+        Mantralayam is associated with the famous saint Sri Guru Raghavendra Swamy, renowned Hindu saint and philosopher. Sri Guru Raghavendra Swamy, lived between 1595 and 1671 was an influential saint in Hinduism. Followers of the saint consider him to be an incarnation of Bhakta Prahallada, who was saved by Vishnu in the avatar of Narasimha. Sri Raghavendra Swamy is said to have performed many miracles during his lifetime and has a large following even today. Mantralayam is a small and peaceful town situated on the banks of the River Tungabhadra and gets thousands of devotees from all over the country. He also served as the head of Sri Mutt of Kumbakonam from 1621 to 1671.
+        At a distance of 74 km from Kurnool, 148 km from Nandyal, 49 km from Adoni, 43 km from Raichur, 253 km from Hyderabad, 301 km from Hubli, 402 km from Bangalore and 416 km from Vijayawada, Mantralayam, also known as Manchale or Mantralaya is situated in Kurnool district of Andhra Pradesh. This is the place where the Vaishnava saint Sri Guru Raghavendra took Jeeva Samadhi (tomb) and is also one of the popular Places to visit in Andhra. Mantralayam is situated near the border of Karnataka and Andhra Pradesh along the banks of River Tungabhadra, a chief tributary of River Krishna.
+        Mantralayam is also popular for Manchalamma Temple located near the Samadhi Temple, inside the Mantralayam Mutt complex. It is a custom at Mantralayam that the devotees offer prayers at the Manchalamma Temple before visiting the Samadhi Temple. As per records, the barren land around Mantralayam along the river banks of Tungabhadra was handed over to the Mutt of Sri Raghavendra Swamy by Nawab Siddi Masud Khan of Adoni. Panchamukhi Anjaneya Temple, Chinna Tumbalam, Bichchali and Alampur are the nearby attractions to Mantralayam.
+        </item>
+<item>
+     Yaganti is one of the most famous Shiva Temple is Andhra Pradesh and also one of the popular places to experince AP Tourism. The temple dates back to 5th and 6th centuries with contributions from Pallavas, Cholas, Chalukyas and Vijayanagara rulers. The temple received significant contribution from Vijayanagara Kings Harihara and Bukka Rayalu, who finished the construction of several structures in and around the temple.
+        The Uma Maheshwara Temple at Yaganti houses the idol of Shiva and Parvathi (Ardhanareeswara) carved out of a single stone. This is probably the only place where Lord Shiva is worshipped in an idol form instead of Shiva Linga. It is believed that Sage Agastya performed penance for Lord Shiva at this place and requested Shiva to appear in Ardhanareeswara form which is worshipped here. Another unique feature of the temple is Nandi statue which has been growing in the size.
+        Yaganti is located in Yerramala hills that offer immense natural beauty and unique setting to the locality. There are a several natural caves in the hills around the temple which were home for several saints throughout the ages, including that of Great Telugu saint and astrologer Potuluri Veera Brahmam Garu.
+        An amazing feature of this temple is its Pushkarini with very pure water. No one knows how the water flows into Pushkarini in all the seasons. Devotees consider that a bath in the holy Pushkarini before visiting Shiva is highly beneficial.
+
+</item>
+        <item>
+            Srisailam Dam is the 2nd largest capacity hydroelectric project in the country. The dam is constructed on the Krishna River which flows in the Kurnool district of Andhra Pradesh. It is located at a distance of around 150 kilometres from the capital city of Hyderabad and is surrounded by the Nallamala Hills on the southern and eastern sides.
+            The Srisailam Dam is a manmade marvel that has become one of the main tourist attractions of the area. This is not only because of the structure of the dam but also the effort that was put in into making the dam. The construction of the dam started in 1960 and took over 20 years to be completed and was opened in 1981.
+            But the main reason for Srisailam Dam becoming an attraction is not the dam itself. The panoramic view of the River Krishna in its natural surrounding and the sight of its blue waters is also a big tourist grabber. If one is lucky enough, one can see the crest gates of the dam open and the water rush through gates and fall from a height of 885 feet into the river below. Another thing that attracts tourists to the place is the river itself which is considered sacred in these parts. Visitors generally bathe in the river to cleanse themselves before visiting the sacred shrines of Brahmaramba, Mallikarjunaswamy, Uma-Maheshwara and Saraswati. The Nagarjuna dam is another dam built on the same river and is an architectural wonder in itself being the largest masonry dam in the world.
+            Other tourist hot spots in the vicinity are the ruins of the ancient Nagarjuna Viswa Vidyalayam run by the great Buddhist scholar Nagarjunacharya and several rock shelters and cave temples such as Akka Mahadevi Bhilam, Dattatreya Bhilam, and Umaa Maheswaram etc.
+        </item>
+    </string-array>
+
+    <string-array name="place_details_nelore">
+<item>
+     Pulicat Lake is the second largest lagoon in the country. This fantastic destination is a natural beauty and also serves as an asylum for birds under the name of Pulicat Bird Sanctuary. The lake is separated by the Bay of Bengal by the barrier island of Sriharikota, which is also a rocket launching centre. Lying in the midst of scintillating virgin charms and cutting edge technological hotspot, the Pulicat Lake has something for everyone.
+The sparkling waters of the Pulicat Lake serve as the perfect haven for birds, which migrate to this region during the peak time of their reproduction season, which would be around October. A wide variety of birds can be found here during this period, including grey pelicans, flamingos, painted storks, open billed stork among the rest. A lot of these birds use the lake for food and live in the trees in the nearby surroundings.
+Flamingos of Pulicat find their visit commemorated by an endearing festival dedicated especially to them. The Flamingo festival of this lake lasts over a period of three days in the month of December, when music, dance and many other activities are organised to attract the attention of tourists.
+The sunsets and sunrise in the backdrop of gentle birds make for a picturesque scene as well. Taste some amazing authentic food in the premises with coastal dishes being served at all the eateries present around the area.Another interesting way to explore the territory of Pulicat Lake is through boating in the waters of this quaint pond.
+</item>
+        <item>
+            The Pulicat Lake Bird Sanctuary is biologically endowed with a diverse range of biological habitats. The wide ranges of miniature ecosystems that exist in this ecologically sensitive area include 160 species of fish, 12 species of prawn, 25 species of polychaete worms, 19 species of mollusk, etc. This Sanctuary is especially known for its migratory birds including some of the commonest wetland birds namely Garganey, Marsh Sandpiper, Gadwall, Shoveler, and Black-tailed Godvit and most notably, during the colder months, the sanctuary attracts up to 15,000 Flamingoes.
+            The Climatic conditions at Pulicat Lake Bird Sanctuary are mild and pleasant. The rainfall in the area ranges from 800 – 2000mm. The temperature here varies from 14 degrees Celsius to 33 degrees Celsius.
+            The Sanctuary offers activities such as trekking through the exotic forestation, Bird safari and bird watching, Aquatic sports, etc. The Sanctuary supports eco-tourism on the lake by allowing traditional punting or sailing in a flat-bottom boat and not by a motorized boat. Bird watching in the Sanctuary is an enriching experience especially just before the sunsets when the birds fly away to perch, to observe their varied hues against the evening sky is the epitome of nature’s beauty.
+        </item>
+        <item>
+            Mypadu Beach is located on the west coast of Bay of Bengal, at a distance of 25 km (16 mi) from Nellore in Andhra Pradesh. The beach is maintained by the state tourism board, APTDC. The beach provides fishing opportunities for the local fishermen, and access to cruises for the tourists
+          It is unique because of its long, uninterrupted stretch of greenery. The crystal clear waters and the golden sands of the beach make a heady mix for travellers, who are looking to rest, relax and rejuvenate. A dip in the water can refresh travellers, while watching the colour of the sea changing with each ray of the sun can enchant visitors. The golden sands of the beach make a wonderful bed to sunbathe. Located about 25 kilometres from Nellore city, this picturesque beach is a great place for a relaxing weekend. Visitors can even enjoy facial massages and sumptuous fare served at the food stalls close to the beach.
+        </item>
+        <item>
+            The Nelapattu Bird Sanctuary is home to many other native as well as migratory birds.
+            Nelapattu Bird Sanctuary is the breeding ground of many species that are now considered endangered. Some of the commonly found species of the Nelapattu Bird Sanctuary, Andhra Pradesh are Spotted Belied Pelican, Spoon Bill, White Ibis, Night Heron, Open Billed Stork, Painted Stork, Little Cormorant and Spoon Bill.
+            Some of the readily seen birds of the Nelapattu Bird Sanctuary are Babblers, Pelicans, Flamingos, Open Billed Stork, Coot, Night Heron and Waders. Apart from housing some of the rarest species of the avian population, the Nelapattu Bird Sanctuary is home to many mammals like jackals, slender loris and reptiles like monitor lizard, tortoises and snakes.
+             The uniqueness of the sanctuary lies in the additional features that are offered. The environmental education centre, the museum, the library offers information for those who are interested in the subject.
+            Tourists can spend some time in the library reading about the different species of birds and animals. The Nelapattu Bird Sanctuary also offers an auditorium which is well equipped with audio-visual systems for seminar and discussions.
+        </item>
+    </string-array>
+    <string-array name="place_details_prakasam">
+        <item>
+            Bhairavakona is a holy place situated on the heart of Nallamala Hills in the Prakasam district of the Indian State of Andhra Pradesh. The only temple in India where Brahma, Vishnu and Maheswara are worshipped in one place. An interesting feature of this temple is 8 temples are carved out of one rock and Lord Shiva appears in 8 different forms
+              Nature Lovers will be enchanted by the beauty of the roaring falls which drops from a height of over 200 mtrs from the scenic mountains thus creating a breathtaking view. One is reminded of the great Niagara falls and has thus come to be also known as the Chota Niagara. The water from the falls which originates from Lingala Penta flows for over 5 kms and reaches Lakshmi, Parvathi and Saraswathi lake. It further flows and reaches Triveni Sangamam and Chitrakota lakes and then passes in front of the diety.
+            The sound of the water falls lends a musical touch to the nature lovers and has soothing effect on them.
+                Devotees spend several hours in the vicinity of the falls captivated by the beauty. The water flowing through several medicinal plants on the way is also known to have a healing touch to several ailments.
+                Rain or no rain, the falls has water gushing down all through the year.
+        </item>
+<item>
+    The clean sands and clear water of the Kothapatnam beach is perfect for a relaxing evening. The serenity and the flowing calmness of the sea waters with the sounds of the waves leaves you mesmerized to bring an unforgettable experience. The beach lines the coast of Bay of Bengal and runs along several kilometres. The beach is popular for picnic and serves as a recreational spot. The long stretch of sand encourages walks but the sun setting view on the beach is something to look for. The place has fresh wind blowing and the sun setting creates a pictorial image in front of the eyes. The beach is an absolute untouched stretch of golden sand and people who have an obsession for unspoilt nature can get your tents and get going.
+</item>
+    </string-array>
+
+    <string-array name="place_details_krishna">
+<item>
+   Bhavani Island situated in the midst of the Krishna River, at Vijayawada. It is located at the upstream of Prakasam Barrage and is considered as one of the largest river islands in India, with an area of 133 acres (54 ha).
+the boat rides and the adventure zone and lazing out in the hammocks listening to the water swaying to the wind and watching an occasional boat pass by. The pictures of the place and the resort seems to be impressive and compelling. Perfect for a one day picnic or a lazy weekend outing for both couples and group. They also organize group trips for corporates.
+</item>
+        <item>
+        The Kanaka Durga Temple is a famous shrine dedicated to the Goddess Durga. Located in Vijayawada of Andhra Pradesh, this astounding architecture is built in Dravidian fashion. The temple is surrounded by the gentle hills of Inrakeeladri, right along the banks of the Krishna River. This ancient temple finds mention in many sacred texts and Vedic literature as well and is a revered temple among devotees and followers.
+            The Kanaka Durga Temple of Andhra Pradesh is one of the 108 Shaktipeethas that are situated in the country. Legend says that this region was once strewn with might rocks which inhibited the flow of the Krishna river, thereby leaving this area uninhabitable. To put an end to this problem, Lord Shiva was called upon who directed the hills to make way for the unobstructed flow of the river. The flow of the river gained strength through the tunnels or "Bejjam" and hence the name Bezawada was born.
+            Since this temple is dedicated to Goddess Durga, the nine days of Navratri are celebrated here with fervent vigour and gaiety. The most significant is the Saraswati Pooja. The celebrations here are held every year and thousands of pilgrims attend the same seeking the blessings of Her Holiness. The colourful festivities during this time are delightful and will restore your faith in the divine.
+        </item>
+        <item>
+            Kondapalli Fort is a very attractive and colorful fort and has a beautiful architecture.It is spread over a sprawling are and was one of the famous fort built in the 1306 by the Hindu king Prolaya Vema Reddy.The entry gate of the fort is huge and is popularly known as Dargha Darwaja, it is built beautifully on a single piece of granite stone.There is another entry gate Known as Golconda darwaza and is on the other end.
+            Kondapalli Fort is known for its fantastic architeture and the inscriptions and paintings on the walls of the fort depicts the battle that took place in the 13th century.Another attraction of Kondapalli fort is the rural art and craft, vibrant colour toys that are made up of light wood famous and are known as Kondapalli toys. Earlier Kondapalli fort was ruled by the hindu kings and after some time it was ruled by the rulers of Qutubshahi dynasty.The famous toys that are made in Kondapalli are Dasavatarams, palanquin-bearers carrying the bride and bridegroom, various animals.
+            Kondapalli is a reserve for flora and fauna you can find a variety of trees and flowers and even medicinal plants there.It is also known as a hub for transportation of petrolium products to various companies.It is a very beautiful fort and is occupied with lots of ancient things like you can see ancient gold coins, sculptures and painting in the historic gallery of the fort.
+        </item>
+        <item>
+            This barrage was conceptualized in 1798.  East India Company carried out a detailed survey and deputed its experienced officers in the task.  After the recommendation of Major Cotton’s report, the dam construction was started in 1852 and after a fast work process; the completion of this dam was done in 1955.  A long canal is also initiated from this dam which passes through the nearby city Vijayawada.  This barrage is also being used as a road cross over the Krishna River.  This barrage was re-named to honor the first Chief Minister of Andhra Pradesh Mr. Tanguturi Prakasam. This barrage is helping in irrigation more than 12 lakhs acres of land.  The barrage is successful in its objective to provide irrigation facilities.
+        This barrage is also a picnic spot.  The lake around the barrage is not so deeper and has a shallow effect on the sides thus a good picnic spot.  Boating,(Motor and Paddle)  water scooting,  and Parasailing are done here.  A proposal to start sky diving was also projected with state government but due to risk factor, the approval could not be granted till date.  In the lake water of this barrage some typical migratory birds are often seen.  Cranes, spotted ducks are the mostly find bird species of this place. This place is well connected with the roads and rails.  By air access is also possible as Vijayawada is also a nearest airport.  Transportation is easily available to this dm from airport and railway station too.
+        </item>
+        <item>
+            Undavalli Caves - amazing achievement of engineering, four floors high rock-cut temple with numerous sculptures and murals.There are several smaller rock-cut chambers nearby but the main attention is given to the large four storied cave.Caves have four stories, each successive floor recedes. Facade is 29 m wide.
+            Cave in its planning belongs to the earliest examples of Gupta architecture although several details in the second floor show the influence of Chalukyan architecture.First floor can be entered through one of 8 - 9 roughly shaped openings with massive square columns in between. Planning and style of sculptures in the first floor shows that this was Buddhist monastery - vihara. Part of chambers are primitive rock-cut monastery cells. Hall is not completed, it contains 8 columns. Here are three separate sanctuaries for Trimurti - Brahma, Vishnu and Shivu, each with a pillared hall in front. Trimurti is important concept in Hindu religion - a triad of Brahma, Vishnu and Shiva, embodyment of cosmic functions of creation, maintenance and destruction.
+            Second floor contains the most amazing sculpture in this temple - a huge, 5 m long statue of Lord Vishnu in his Padmanabha aspect shown in reclining posture. Also this statue resembles similar Buddha statues in some other cave temples. Sculpture is made out of single block of granite. Over Vishnu there is a canopy of multi-hooded Adi-Shesha, king of all nagas, shrine is adorned with numerous other sculptures as well.
+            Facade of the third floor is adorned with numerous sculptures, including depictions of lions and elephants. There opens beautiful view through these ancient sculptures towards other green hills and stands of palms below.
+        </item>
+
+    </string-array>
+    <string-array name="place_details_WG">
+<item>
+     Dwaraka Tirumala is an ancient holy place and a popular pilgrim center in Andhra Pradesh of South India.Dwaraka Tirumala is a famous temple from the ancient times. According to some Puranas, the temple is popular even in Kruta yuga and is still attracting the devotees.This pilgrimage centre is called  Dwaraka Tirumala after the great saint, Dwaraka who located the self manifested idol of Lord Sri Venkateswara after severe penance in a Valmikam (ant hill). The devotees call Sri Venkateswara as Kaliyuga Vaikunta Vasa. This place is also called Chinna Tirupati.
+    It is a great wonder to see two main idols under one Vimana Sikharam. One idol is a full and complete statue. The other is a half statue of the upper portion of the form of the Lord. The upper potion of the form is a self-manifested idol located by Sage Dwaraka. The saints of the yore felt the prayers to the Lord are not complete without worshipping His holy feet. So, the saints joined together and installed a full statue behind the self-manifested idol, to worship the feet of the Lord according to Vaikhanasa Agamam.
+It is believed that the prayers to the smaller statue of the Lord will lead to Moksha, and the big form stands for Dharma, Artha and Kama.
+</item>
+        <item>
+            Kolleru forms the largest shallow fresh water lake in Asia. The Kolleru Lake situated about 15 kms from Eluru is a natures paradise. Kolleru Lake is the best place for nature lovers and for people looking for peace and tranquility. Kolleru Lake is located between the delta of Godavari and Krishna Rivers and functions as a natural flood balancing reservoir between these two deltas. The lake supports about 63 species of fishes, fresh water turtles and other amphibians, apart from being a habitat for many migratory birds that forms Kolleru Bird Sanctuary.
+            The lake was an important habitat for an estimated 20 million resident and migratory birds. The visitors include Open Bill Storks, Painted Storks, Glossy Ibises, White Ibises, Teals, Pintails, Shovellers, Red-Crested Pochards, Blackwinged Stilts, Avocets, Common Redshanks, Wigeons, Gadwalls and Cormorants, etc.
+            The lake is a great picnic spot and a paradise for birdwatchers.
+        </item>
+        <item>
+            Pattiseema Lift Irrigation Project is a river interlinking project which connects Godavari River to Krishna River. This project has thereby become the first of such irrigation type projects in the country to be completed in time without any budget enhancements. It also holds a record in Limca Book of Records.
+       The project has one of the largest pump houses in Asia with 24 pumping units spread across an area of 7,476 sq m.
+        The project has a combined capacity to discharge 240 cumecs (cubic meters per second) of water. These pumps deliver water drawn from the river Godavari in Pattiseema into the Polavaram Project Right Main Canal for the benefit of farmers in the Krishna river delta.
+        After completion of the project, the pumps have been operated for 1.2 lakh hours till now. The government estimated that the farmers in Krishna Delta were able to reap benefits to an extent of Rs 24,000 crore due to Pattiseema water. Krishna Delta received water from Pattiseema in the beginning of July this year.
+            The State government said the farmers incurred heavy losses every year due to cyclones in December. With Pattiiseema, the farmers have started receiving water on time, they are reaping the benefits of a good harvest without any obstacles.
+        </item>
+
+    </string-array>
+
+    <string-array name="place_details_vizag">
+        <item>
+            Borra Caves are located at a distance of 92 Km north of Visakhapatnam. The caves open with 100 meter on horizontal plane and about 75 meters on vertical plane. These caves spread over an area of one square KM and the origin of river Gosthani which flows through the district. This you must see if you are in Araku Valley or in Visakhapatnam. This location is at a height of 800 to 1300 meters from MSL. William King the British geologist discovered this million years old cave in the year 1807.
+            Breathtaking hilly terrain, beautiful landscape, semi-evergreen moist deciduous forests, and wild fauna of the area are a visual feast. This cave is the biggest in India considering the area it has spread geographically.
+            The picturesque territory and thrilling terrain of Borra Caves is the perfect destination to pursue a little trekking adventure over the weekend.
+            The trekking difficulty is easy to medium, so even beginners will not have a problem in navigating this destination.
+        </item>
+        <item>
+            Araku valley, an amazing hill station, one of unfathomable valley in India lures the tourists with its breathtaking landscapes and pleasant weather. Lush green forest, musical notes of waterfalls makes the journey more lively, located 115 km from Vizag, Andra Pradesh and close to Orissa border.
+            Altitude is 1300 m above the sea level and valley spreads around 36 km. The drive on the Ghat road to Araku valley is entirely lined with thick forest on either side, climbing 4500 ft and sliding down to 3000 ft of valley which makes the trip very thrilling and trekking. More than 40 tunnels and number of bridges are on the way welcomes the tourists warmly. Dark shade and presence of sodium lamp inside the tunnel do their magic on travelers. The ascent up to the hill is gradual, provides enough Waterfalls, Orchards, gardens and forests are immense and incomparable beauties of this valley.
+
+        </item>
+        <item>
+            Kailasagiri is a hill top park in the city of Vishakhapatnam. The hill is at 360 feet and it overlooks beaches, forests and the city of Vishakhapatnam. It is one of the best tourist spots in the city for a birds eye view of the bay.
+            The Kailasagiri Park is well known for its panoramic view, peaceful atmosphere and its scenic beauty, making it a beautiful tourist attraction in Vishakhapatnam. The place offers plenty of leisure activities which is also one of the reasons for people visiting the place. For small children, circular train is there for fun and enjoyment. Moreover, among adventure games, it gives visitors really good paragliding facilities. Apart from that there are huge idols of Lord Shiva and Parvathi which gives the place a religious flavor. According to the visitors views, its a great place to visit in Vishakhapatnam to observe the development of the hills over the years. The Kailasagiri Park is a park situated on top of a hill which faces the east coast. Its a place that offers a mixture of things including places of religious importance, adventure games like paragliding, enjoyment for little kids, wide view of the whole city and many other things for the visitors.
+            The Rope Way facility is also there for the tourists. The cable car route takes you to the top of the hill to have a bird eye view of the whole city. It is the first of its kind in Andhra Pradesh.
+        </item>
+        <item>
+            The name of the falls is derived from the name of the village nearby. Katiki waterfall is formed by the Gosthani River and it cascading down from a height of 100+ feet. The pond at the bottom of the waterfall is an excellent place for taking a bath after a tough trek to the place. It has to be reached by 20-30 minutes trek (one way) through lush forest and upwards to mountain top from the nearest motor able road. Cooking and camping are also permitted at this place. This is also a good place for trekking.
+Jungle honey is also available near the waterfall.It is one of the best waterfalls in Araku and also among the famous Araku tourist places.
+        </item>
+<item>
+    This beach occupying large parts of the seafront is a great spot to spend time leisurely. The RK Beach was jointly developed by the Municipal Corporation of Visakhapatnam (MCV) and the Visakhapatnam Urban Development Authority (VUDA). The Submarine Museum, Visakha museum, Sri Ramakrishna Mission Ashram, an aquarium, Kali Temple, statues of prominent personalities, road side restaurants and parks are added attractions of RK beach. The beach is best known for the INS Kursura Submarine Museum, which preserves the Kalvari class submarine. The war memorial called Victory at Sea at the shore of the beach was constructed as homage to soldiers of the 1971 war.
+RK beach is famous for family outings and it attracts large number of visitors. The beach is perfect for catching mesmerizing sunrises. While the Rama Krishna Beach is not safe for swimming, there are many attractions and activities to keep visitors busy. Offering various kinds of water activities to the travellers, the beach is popular for sunbathing, beach volleyball and wind as well as water surfing. Deep sea angling is another prominent activity, which is carried on traditional fishing boats. Andhra Pradesh Tourism offers boating from fishing harbour here.
+Visakha Utsav, the annual festival of the district always gives a greater importance to the RK Beach.This is one of the most popular beaches in Visakhapatnam and gets its name from the Ramakrishna Mission ashram across the Beach Road from the park. Ramakrishna Beach is one of the prime attractions of Vizag city.
+</item>
+        <item>
+            The Submarine Museum is the first submarine tuned to a museum in the whole of Asia and second in the World. INS Kurusura Submarine is a Soviet built I-641 class Submarine inducted into the Indian Navy on 18, December 1969 and the same was decommissioned on 28, February 2001 after 31 years of glorious service to the nation. The Submarine was brought from the sea to the sands of the Ramakrishna Beach and positioned on concrete foundation to set up as a museum. It has been established with the aim to create awareness among the public to know how the submarines work during wartime and for showcasing the life inside the submarine, etc.
+The tourism department of Visakhapatnam looks after the maintenance of the INS Kurusura Submarine. The total investment upon this project was Rs. 5.5 Crores. It is one of the central tourist attractions of the city. This museum was opened to public on 14/8/2002.
+The Museum shows the signboards of the growth of submarine through artifacts, photographs and written scripts. The museum showcases the life inside a submarine and hardships faced by the submariners in the sea. Guides are available in the museum to help the visitors. Submarine Museum is one of the prime attractions of Vizag city.
+        </item>
+        <item>
+            The Indira Gandhi Zoological Park was setup in the year 1972 in the city outskirts of Vizag in a 425 Acres area on the National Highway towards Vizianagaram.
+The park is a great spot for picniking, particularly in the months of November and December. The Zoo Park has some of the best living animal and marine species and is one of its kinds in the state of Andhra Pradesh. The park is refreshed with a fresh collection of animals from the forests of Africa and the Australia The Indira Gandhi Zoological Park is a good location to spend time with animals - particularly Sunday mornings. The one of the largest Zoological Park in Andhra Pradesh - next only to the one in Hyderabad and has a rich and varied collection of Wild Species including the Indian Tiger, Deer,
+            Elephants and other attractions from Australia. Spread over 425 Acers of Land, the Zoo park is a host for over 400 varieties of animals. The park is a great spot to spend time - particularly in the months of November and December. The Zoo Park has some of the best living animal and marine species and is one of its kinds in the state of Andhra Pradesh. The park is refreshed with a fresh collection of animals from the forests of Africa and the Australia.
+Nearly eighty species numbering eight hundred animals are present in the zoo. The well planned layout of the zoo  has different sections for primates, carnivores, lesser carnivores, small mammals, reptiles, ungulates and birds.
+            You can take a ride up on the Ropeway, There is a toy train that runs on the hill and museums and observations decks will give you enough space to explore.
+        </item>
+    </string-array>
+
+    <string-array name="place_details_viziyanagaram">
+        <item>
+            Bobbili is a town which lies in the Vizianagaram district of Andhra Pradesh.The Battle of Bobbili fought in 1757 by the Vizianagaram Kings with the help of French General Marquis de Bussy, is one of the most significant events in the history of Andhra Pradesh. This battle is responsible for giving Bobbili the glamour of eternal bravery. Apart from this battle, the town is also famous for the Fort of Bobbili and the Venugopala Swami Temple. The town is popular for manufacturing Veena and the unique style to play it which was developed over three centuries and is known as Bobbili Veena Sampradayam.
+            Although, a major part of the fort of Bobbili is in ruins, there are few places inside the fort which one can marvel at. They include the Durbar Mahal, where the Raja held his court, the two stone elephants on either side of the stairway leading to the Durbar Hall, the Pooja Mahal built by the Queens, the Raj Mahal, which is also known as Chikkavram Guest House, built by Bobbili Kings.
+            The Prang Mahal opposite to the Raj Mahal is still maintained as a heritage building. Apart from this fort, there are several houses built by the cousins of Bobbili King, most of which are turned into heritage buildings. The remaining are still under the name of the members of the royal family.
+        </item>
+        <item>
+            Vizianagaram fort is an early 18th century fort in the city of Vizianagaram in northeastern Andhra Pradesh, South India. The fort, built of stone, is in the shape of a square of side 240 metres (790 ft), and rises to a height of 10 metres (33 ft). The width of the wall at the top varies from 8 to 16 metres (26 to 52 ft). The four corners of the fort have fortifications in the form of bastions made of stones with a slope on its inner face covered with earth fill and strengthened with stone slabs. There are two gates of entry into the fort. The fort entry from the east is the main gate called the
+            Nagar khana, which has elegant architectural designs. Prior to the construction of the Nagar khana, a victory arch stood at the entrance
+        Apart from the two main gates, there are several temples and monuments located within the fort. Two important temples are the Hanuman temple, and the Lakshmi temple known as the Kota Shakto, which is the guardian deity of the fort. Rajas offered prayers at Lakshmi temple before proceeding on any war campaign. Important monuments are palaces such as the Moti Mahal, Oudh Khana, Alakananda Palace, Korukonda Palace, and, just outside, the victory tower called the Ghanta Stambham (Clock Tower). Two other important historical monuments outside the fort, but within the city limits, are the Moddukovillu temple and the Perla Home
+        </item>
+        <item>
+            The Moti Mahal is the royal court or the Durbar hall which was built by Vijayarama Raju-III in 1869. At the entry to this hall there are two marble statues.
+            This is a monument that represent the past glory, donated to the Maharajah Alak Narayan Society of Arts and Science (MANSAS Trust) by its founder Dr. P.V.G. Raju, the Raja Saheb of Vizianagaram, is now functioning as a college for women on its first floor. It also houses a museum which has artifacts of the past kings who ruled from the fort
+        </item>
+    </string-array>
+    <string-array name="place_details_srikakulam">
+        <item>
+            Sri Suryanarayana Swamy temple (Sun God, one of the famous temples of Sun God in AP) is situated in Arasavalli (a small village earlier) just 1km from the center of the town of Srikakulam city of Andhra Pradesh. The history says that, the place has importance due to the Sun God which is believed to be built by Devendra Varma, ruler of Kalinga Kingdom during 7th century. But the idol of Sun God is believed to be installed by the sage Kasyapa. As per the stone inscriptions available in the temple premises, many donations were made for the installation of the temple and other needs surrounding it. The beauty of this temple is its construction which is done in such a way that, rays of Sun fall on the feet of the statue (at Garbha gudi) during March and September in early hours (Sun rise time) and stay for some time. It is believed that during 11th century, many desciples of Shiva and Vishnu both visited this temple without any differences between Vaishnava and Shaiva. Sun, being the source of all living being on Earth, it is believed that people who visit this place get good health on performing Surya Namasakara here. One should not sit and offer puja in front of the statue and also should not close his eyes while offering the same. Read the board just before entering the Garbha gudi for the kind of offerings one can make in front of Sun God without missing. Sunday is considered as the most auspicious day for worshipping Sun God by visiting this temple.
+The temple is extended and re constructed during late 19s (1999) by a devotee belonging to Srikakulam district. His name is Sri Varudu Babji aro. The idols inside the Vimana Gopuram are carved from a single black stone. The Sun God, Dwarapalakas, saints, Chariot, Horses and the Saradhi are the main figures one can see which are included in the single stone inside the main temple.
+        </item>
+        <item>
+            Kalingapatnam is situated in the Srikakulam district, which is the main panchayat. Kalingapatnam is the place where River Vamsadhara enters the Bay of Bengal. The meeting of the two waters is distinguishably a scene not to miss. Undoubtedly it is one the safest and cleanest beaches in Andhra Pradesh. The beach is amidst a backdrop of clear blue sky with palm groves waving high with winds. Kalingapatnam makes a perfect spot for spending your leisure time. The long stretch of the coastline, clean air and delicious food of Andhra Pradesh makes your stay a memorable experience as you get back home overwhelmed. Summers season makes it a hot destination not only for tourists but also for the local people. The place is generally not overcrowded but you can often see family picnics and get together.
+            It’s a pleasure to watch River Vamsadhara merge into the Bay of Bengal here. The Buddhist Mahastupa and its remains show case the ancient Buddhist culture and the serene and calm atmosphere adds to the attraction. Kalingapatnam is one of the famous tourism places in and around Srikakulam District for its well established Light-house adds on to the beauty. The Beach is safe for water games, Beach games and evening strolls. Srikakulam offers a lot of shopping for souvenirs and artefacts for the shopaholics.
+        </item>
+    </string-array>
+    ------------------
+    <string-array name="place_locations_Anatapur">
+        <item>Gooty, Anantapur, AndhraPradesh , India</item>
+        <item>Penukonda, Anantapur, AndhraPradesh , India</item>
+        <item>Gootibylu, Andhra Pradesh,India</item>
+        <item>kadiri, Andhra Pradesh,India</item>
+        <item>	Lepakshi, Andhra Pradesh,India</item>
+
+    </string-array>
+
+    <string-array name="place_locations_chittore">
+        <item>Mandepalle , Chittor, AndhraPradesh , India</item>
+        <item>palamaner,Chittor, AndhraPradesh , India</item>
+        <item>Gurramkonda,Chittor, Andhra Pradesh,India</item>
+        <item>Nagari,Chittor, Andhra Pradesh,India</item>
+        <item>Tirupati ,Chittor, Andhra Pradesh,India</item>
+        <item>	Srikalahasti,Chittor, Andhra Pradesh,India</item>
+        <item>Kanipakam ,Chittor, Andhra Pradesh,India</item>
+
+    </string-array>
+    <string-array name="place_locations_east">
+        <item>Annavaram , East Godavari, AndhraPradesh , India</item>
+        <item>Sakinetipalli Mandal, East Godavari, AndhraPradesh , India</item>
+        <item>Kakinada, East Godavari, Andhra Pradesh,India</item>
+        <item>kakinada, East Godavari, Andhra Pradesh,India</item>
+        <item>Rajamundry , East Godavari, Andhra Pradesh,India</item>
+
+    </string-array>
+
+    <string-array name="place_locations_guntur">
+        <item>Guntur, AndhraPradesh , India</item>
+        <item>Guntur, AndhraPradesh , India</item>
+        <item>Amaravathi, AndhraPradesh , India</item>
+        <item>Mangalagiri, AndhraPradesh , India</item>
+        <item>Kondaveedu, AndhraPradesh , India</item>
+
+    </string-array>
+    <string-array name="place_locations_cudapah">
+        <item>Cuddapah, AndhraPradesh , India</item>
+        <item>Jammalamadugu,Cuddapah, AndhraPradesh , India</item>
+        <item>Vallur Mandal,Cuddapah, AndhraPradesh , India</item>
+        <item>Vontimitta mandal, Cuddapah,AndhraPradesh , India</item>
+        <item>Kondaveedu,Cuddapah, AndhraPradesh , India</item>
+
+    </string-array>
+
+    <string-array name="place_locations_kurnol">
+        <item>Kolimigundla Mandal,Kurnool, AndhraPradesh , India</item>
+        <item> Nandyal town,Kurnool, AndhraPradesh , India</item>
+        <item> Nandyal town,Kurnool, AndhraPradesh , India</item>
+        <item> srisailum ,Kurnool, AndhraPradesh , India</item>
+        <item> Kurnool, AndhraPradesh , India</item>
+        <item> Kurnool, AndhraPradesh , India</item>
+        <item> Kurnool, AndhraPradesh , India</item>
+    </string-array>
+
+    <string-array name="place_locations_nelore">
+        <item>Nellore, AndhraPradesh , India</item>
+          </string-array>
+    <string-array name="place_locations_pakasam">
+        <item>Prakasam District, AndhraPradesh , India</item>
+    </string-array>
+    <string-array name="place_locations_krisna">
+        <item>Krishna District, AndhraPradesh , India</item>
+    </string-array>
+    <string-array name="place_locations_WG">
+        <item>Dwaraka Tirumala,West Godavari,Andhra Pradesh.</item>
+        <item>Eluru,West Godavari,Andhra Pradesh.</item>
+        <item>Rajahmundry,West Godavari,Andhra Pradesh, India</item>
+
+    </string-array>
+    <string-array name="place_locations_vizag">
+        <item>Visakhapatnam district,Andhra Pradesh, India</item>
+
+    </string-array>
+    <string-array name="place_locations_viziyanagaram">
+        <item>Vizianagaram district,Andhra Pradesh, India</item>
+
+    </string-array>
+    <string-array name="place_locations_srikakulam">
+        <item> Arasavalli,Andhra Pradesh, India</item>
+        <item> Kalingapatnam,Andhra Pradesh, India</item>
+    </string-array>
+
+
+    ----------------------------
+
+    <string-array name="place_besttime_Anatapur">
+        <item>November - February</item>
+        <item>November - February</item>
+        <item>Summer season is to be avoided because of heat and humidity.</item>
+        <item>April</item>
+        <item>All Seasons</item>
+    </string-array>
+    <string-array name="place_besttime_chittore">
+        <item>November - May</item>
+        <item>October - April</item>
+        <item>November - April</item>
+        <item>November - January</item>
+        <item>November - February</item>
+        <item>July - March</item>
+        <item>September - February</item>
+    </string-array>
+    <string-array name="place_besttime_eastgodavari">
+        <item>October - Febuary</item>
+        <item>October - April</item>
+        <item>October - May</item>
+        <item>All Seasons</item>
+    </string-array>
+    <string-array name="place_besttime_guntur">
+        <item>Summer season is to be avoided because of heat and humidity.</item>
+        <item> Mahashivaratri – February/March</item>
+        <item>    Mahasivaratri – February/March\n
+        Navaratri – September/October</item>
+        <item>Summer season is to be avoided because of heat and humidity.</item>
+        <item>All Seasons</item>
+        </string-array>
+    <string-array name="place_besttime_cudapah">
+        <item>December - March</item>
+        <item>September - February</item>
+        <item> October - March</item>
+        <item>  Rama Navami – March/April</item>
+    </string-array>
+    <string-array name="place_besttime_kurnol">
+        <item>December - March</item>
+        <item> November - March</item>
+        <item> Brahmotsavam (10 days) – February \n
+        October - March</item>
+        <item>September - March</item>
+        <item> August to March</item>
+        <item> October to March</item>
+        <item>  November - March.</item>
+    </string-array>
+
+    <string-array name="place_besttime_nelore">
+        <item>October - March </item>
+          </string-array>
+    <string-array name="place_besttime_prakasam">
+        <item>October - March </item>
+    </string-array>
+    <string-array name="place_besttime_krishna">
+        <item>Summer season is to be avoided because of heat and humidity.</item>
+    </string-array>
+    <string-array name="place_besttime_WG">
+        <item>October - April.</item>
+        <item> November - March.</item>
+        <item>September - March</item>
+    </string-array>
+    <string-array name="place_besttime_vizag">
+        <item>October- December.</item>
+        <item> September - May</item>
+        <item>October - March</item>
+        <item>August - December</item>
+        <item> October- December</item>
+        <item> October- March</item>
+        <item> November - December</item>
+    </string-array>
+    <string-array name="place_besttime_viziyanagaram">
+        <item>December - February</item>
+    </string-array>
+    <string-array name="place_besttime_srikakulam">
+        <item>December - February</item>
+    </string-array>
+    ---------------------------
+       <array name="places_Anantapur_images">
+        <item>@drawable/gooty</item>
+        <item>@drawable/penu</item>
+        <item>@drawable/timmamma</item>
+        <item>@drawable/narasimhatemple</item>
+        <item>@drawable/veerabhadra_temple</item>
+    </array>
+    <array name="places_Chittoor_images">
+        <item>@drawable/hosely</item>
+        <item>@drawable/kaundnyaawild</item>
+        <item>@drawable/gurram</item>
+        <item>@drawable/nagarihills</item>
+        <item>@drawable/tirumala</item>
+        <item>@drawable/srkalahasthi</item>
+        <item>@drawable/kanipakm</item>
+    </array>
+
+    <array name="places_EastGodavari">
+        <item>@drawable/annavaram</item>
+        <item>@drawable/antarvedi</item>
+        <item>@drawable/cooringasan</item>
+        <item>@drawable/kakinadaport</item>
+        <item>@drawable/papikonda</item>
+    </array>
+
+    <array name="places_Guntur_images">
+        <item>@drawable/amaravat</item>
+        <item>@drawable/kotappakonda</item>
+        <item>@drawable/amaravatemple</item>
+        <item>@drawable/panakalaswamymangala</item>
+        <item>@drawable/kondavedu</item>
+    </array>
+
+    <array name="places_Cuddapah_images">
+        <item>@drawable/wildlife</item>
+        <item>@drawable/gandikota</item>
+        <item>@drawable/puspa</item>
+        <item>@drawable/vontimi</item>
+    </array>
+
+
+    <array name="places_Krishna_images">
+        <item>@drawable/bavani_island</item>
+        <item>@drawable/durgamma</item>
+        <item>@drawable/kondapali</item>
+        <item>@drawable/krishna</item>
+        <item>@drawable/undavali</item>
+    </array>
+    <array name="places_Prakasam_images">
+
+        <item>@drawable/bairavakona</item>
+        <item>@drawable/voodarevu</item>
+    </array>
+
+    <array name="places_nellore_images">
+        <item>@drawable/pullicatlake</item>
+        <item>@drawable/birdsanct</item>
+        <item>@drawable/myanapadu</item>
+        <item>@drawable/bird</item>
+
+
+    </array>
+
+    <array name="places_srikakulam_images">
+        <item>@drawable/suryadeva</item>
+        <item>@drawable/kalinga</item>
+    </array>
+    <array name="places_vishaka_images">
+        <item>@drawable/borracaves</item>
+        <item>@drawable/araku</item>
+        <item>@drawable/kailasagiri</item>
+        <item>@drawable/katikifalls</item>
+        <item>@drawable/ramakrishnabeach</item>
+        <item>@drawable/submarine_musem</item>
+        <item>@drawable/vizag_zoo</item>
+
+    </array>
+    <array name="places_viziya_images">
+        <item>@drawable/bobilli</item>
+        <item>@drawable/vijayanagramfort</item>
+        <item>@drawable/motimaham</item>
+
+
+    </array>
+    <array name="places_WG_images">
+        <item>@drawable/dawaraka</item>
+        <item>@drawable/koleru</item>
+        <item>@drawable/patisema</item>
+   </array>
+    <array name="places_kurnol_images">
+        <item>@drawable/belum_cave_720</item>
+        <item>@drawable/mahanandi</item>
+        <item>@drawable/ahobilm</item>
+        <item>@drawable/srisilam_temple</item>
+        <item>@drawable/mantralam</item>
+        <item>@drawable/yaganti</item>
+        <item>@drawable/srisilamdam</item>
+    </array>
+
+
+    <array name="symbols_images">
+        <item>@drawable/kuchipudi</item>
+        <item>@drawable/blackbuck</item>
+        <item>@drawable/lily</item>
+        <item>@drawable/r</item>
+        <item>@drawable/mangoos</item>
+        <item>@drawable/nemtre</item>
+        <item>@drawable/kabadi</item>
+      >
+
+    </array>
+
+</resources>

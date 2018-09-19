@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Mana AndhraPradesh</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="about">About</string>
+    <string name="anantapur">Anantapur</string>
+    <string name="chitoor">Chittoor</string>
+    <string name="cuddupah">Cuddapah</string>
+    <string name="kurnool">Kurnool</string>
+    <string name="nellore">Nellore</string>
+    <string name="prakasam">Prakasam</string>
+      <string name="guntur">Guntur</string>
+      <string name="krishna">Krishna</string>
+    <string name="west_godavari">West Godavari</string>
+    <string name="east_godavari">East Godavari</string>
+    <string name="vizag">Vishakhapatnam</string>
+    <string name="vizianagaram">Vizianagarm</string>
+    <string name="srikakulam">Srikakulam</string>
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/about</item>
+        <item>@string/anantapur</item>
+        <item>@string/chitoor</item>
+        <item>@string/cuddupah</item>
+        <item>@string/kurnool</item>
+        <item>@string/nellore</item>
+        <item>@string/prakasam</item>
+        <item>@string/guntur</item>
+        <item>@string/krishna</item>
+        <item>@string/west_godavari</item>
+        <item>@string/east_godavari</item>
+        <item>@string/vizag</item>
+        <item>@string/vizianagaram</item>
+        <item>@string/srikakulam</item>
+
+
+    </string-array>
+
+    <string name="title_messages">Messages</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+
+
+    <string name="item_title_Anatapur">Gooty Fort</string>
+    <string name="item_desc">Gooty Fort
+    </string>
+    <string name="detail_desc">Andhra Pradesh, state of India, located in the southeastern part of the subcontinent. It is bounded by the Indian states of Tamil Nadu to the south, Karnataka to the southwest and west, Telangana to the northwest and north, and Odisha to the northeast. The eastern boundary is a 600-mile (970-km) coastline along the Bay of Bengal. Telangana was a region within Andhra Pradesh for almost six decades, but in 2014 it was carved off to form a separate state. The capital of  Andhra Pradesh is Amaravathi
+
+\n\n<i><b><u>LAND</u></b></i>\n
+
+       The state draws its name from the Andhra people, who have inhabited the area since antiquity and developed their own language, Telugu. Andhra Pradesh came into existence in its present form in 1956 as a result of the demand of the Andhras for a separate state. Although it is primarily agricultural, the state has some mining activity and a significant amount of industry. Area 106,204 square miles (275,068 square km). Pop. (2011) 84,665,533.The Eastern Ghats are part of a larger mountain system extending from central India to the far south and running parallel to the east coast. Interrupted by the great river valleys, the mountains do not form a continuous range. They have highly porous soils on their flanks.
+The plateau region in the southwestern portion of the state—part of the Deccan (peninsular India) and commonly called Rayalaseema—is composed of gneissic rock (gneiss being a foliated rock formed in Earth’s interior under conditions of heat and pressure). It is highest in the far southwest, where elevations exceed 2,000 feet (600 metres), sloping downward toward the northeast. The Penneru River forms the main drainage system. As the result of erosion, the plateau is a region of graded valleys, with red sandy soil and isolated hills. Black soil is also found in certain parts of the area.
+\n\n<i><b><u>CLIMATE</u></b></i>\n
+        A summer that lasts from March to June, a season of tropical rains that runs from July to September, and a winter that lasts from October to February constitute the three seasons of Andhra Pradesh. Summers are extraordinarily hot and humid, with maximum daily temperatures exceeding 95 °F (35 °C) and even surpassing 104 °F (40 °C) in the central portion of the state. Summer nightly minimums drop to below about 70 °F (20 °C) only in the far southwest. Winters are somewhat cooler, with January maximum temperatures between 86 and 95 °F (30 and 35 °C) in all but the northeastern portion of the state. Winter lows drop below about 60 °F (15 °C) only in the extreme northeast.
+        Annual precipitation, which derives largely from the southwest monsoon rains, generally decreases toward the southwestern plateau area. Coastal areas receive about 40 to 47 inches (1,000 to 1,200 mm) per year, while the westernmost part of the plateau may receive only half that much. Rainfall totals in portions of the northeastern mountains exceed 47 inches and can be as high as 55 inches (1,400 mm).
+      \n \n<i><u><b>PEOPLE</b></u></i>\n
+
+        The population of Andhra Pradesh, like that of the other states of India, is highly diverse. In general, the state’s various communities are identified more readily by a combination of language, religion, and social class or caste than they are by specific ethnic affiliation. Telugu is the official and most widely spoken language in the state. Most of the remaining groups speak border-area languages, including Hindi, Tamil, Kannada, Marathi, and Oriya. Lambadi (Banjari) and a number of other languages are spoken by the state’s Scheduled Tribes (the official designation for indigenous minority peoples who are outside of India’s caste hierarchy). Members of the Scheduled Tribes and the Scheduled Castes (the official designation for those formerly called “untouchables”) constitute more than one-fifth of Andhra Pradesh’s total population.
+     \n\n<i><u><b>ECONOMY</b></u></i>\n
+        Agriculture, dominated by the production of food grains, is a major, although declining, sector of the state’s economy, in terms of value. Andhra Pradesh is one of the leading rice-growing states in the country and is a major producer of India’s tobacco. The state’s rivers—particularly the Godavari and the Krishna, but also the Penneru—account for its agricultural importance.
+ \n\n<i><b><u>EDUCATION</u></b></i>\n
+        The state’s educational system provides for 10 years of schooling followed by a two-year junior college course leading to undergraduate and postgraduate education. Primary school has been compulsory since 1961, and both primary and secondary school are provided free of charge. In the early 21st century the literacy rate exceeds two-thirds of the population, although male literacy is considerably higher than female.Andhra Pradesh has dozens of colleges and universities, a number of which provide postgraduate instruction and research facilities. Many of them—including the English and Foreign Languages University (founded 1958), which is a nationally prominent institution, and the University of Hyderabad (1974)—are located in Hyderabad, the joint state capital. Since the late 20th century, technical education has received special attention in order to meet the demands of industrialization. Various industrial-training institutes offer vocational training, while the engineering colleges of the universities train advanced technical personnel. Scholarship programs are available for Scheduled Castes, Scheduled Tribes, and other disadvantaged groups in all educational institutions that receive substantial financial assistance from state and federal agencies. Privately run facilities also operate at all levels.
+   \n \n<i><b><u>CULTURAL LIFE</u></b></i>\n
+The Andhras’ contribution to India’s cultural heritage is substantial. Architecture and painting have been highly developed arts in the region since ancient times. The kuchipudi style of dance is unique in the Indian tradition, while Karnatak (South Indian) music has derived much from Andhra roots. Many of southern India’s major composers of classical Indian music have been Andhras, and Telugu has been the language of most of the compositions. Telugu, one of the four literary languages of the Dravidian family, occupies a prestigious place among Indian languages, being renowned for its antiquity and admired by many for its mellifluous quality. Telugu literature was prominent in the Indian literary renaissance of the 19th and 20th centuries, as the writing resonated with a revolution in literary forms and expression, stimulated to a large degree by Western genres. Andhra Pradesh has many periodicals in English, Telugu, and Urdu. Muslim culture in the Telangana region further enriches the state’s cultural diversity.
+
+    </string>
+    <string name="detail_location">"8 Rue Scribe, 75009 Paris, France"</string>
+
+</resources>
